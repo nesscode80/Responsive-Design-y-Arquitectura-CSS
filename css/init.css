@@ -91,6 +91,7 @@ td {
   }
 }
 
-.footer p {
+footer p {
   text-align: center;
+  color: darkgreen;
 }
