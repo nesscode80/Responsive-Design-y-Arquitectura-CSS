@@ -90,3 +90,7 @@ td {
     padding: 1rem;
   }
 }
+
+.footer p {
+  text-align: center;
+}
